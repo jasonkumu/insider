@@ -22,6 +22,7 @@ allprojects {
         jcenter()
         maven {url "https://mobilesdk.useinsider.com/android"}
         maven {url "http://developer.huawei.com/repo/"}
+        maven{url 'https://jitpack.io'}
     }
 }
 
